@@ -1,6 +1,6 @@
 # fetal-echocardiogram Fuzzy Rank-Based Ensemble
 
-Based on our paper "Deep Learning-Driven Axial Cross-Sectional Analysis for Abnormal Cardiac Structure" 
+Based on our paper "A fuzzy rank-based ensemble of customized CNN models to detect abnormal axial cross-sectional planes in fetal echocardiography" 
 
 <img src="figure\OverallPaper.png" style="margin: 10px;">
 
